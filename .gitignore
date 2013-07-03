@@ -1,0 +1,11 @@
+Output/
+Output/*
+Output/**/*
+
+obj/
+obj/*
+obj/**/*
+
+Temp/
+Temp/*
+Temp/**/*
