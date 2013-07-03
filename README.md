@@ -2,6 +2,7 @@ Tetris Unity
 ============
 A Tetris clone created with Unity.
 
+You are welcome to fork this project and create your own version of a Tetris clone.
 
 
 License
